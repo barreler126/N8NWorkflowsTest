@@ -23,10 +23,16 @@
 - YouTube频道对应视频: https://youtu.be/9VInZHVK7Ww                                
 - B站频道对应视频: https://www.bilibili.com/video/BV12F1VBfER8/
 
-3. 03_【工作流】n8n配置飞书保姆级配置指南：HTTP Request节点 社区飞书节点 云空间 多维表格 群组即时消息 支持文本、图片、富文本、卡片、音视频、文件等                   
+3. 03_【工作流】n8n配置飞书保姆级配置指南：HTTP Request节点 社区飞书节点 云空间 多维表格 群组即时消息 支持文本、图片、富文本、卡片、音视频、文件等               
 - 资料在项目内 workflows 文件夹中的 02_*** 文件夹，下载即可                                                                  
 - YouTube频道对应视频: https://youtu.be/zhSKnqJa9to                                                          
 - B站频道对应视频: https://www.bilibili.com/video/BV1aD2TBsEkZ/                                              
+
+4. 04_【工作流】n8n配置微信公众号保姆级配置指南：HTTP Request节点 社区公众号节点 Agent节点 豆包文生图，公众号标题、正文、封面图自动生成草稿上传
+- 资料在项目内 workflows 文件夹中的 03_*** 文件夹，下载即可                                                                  
+- YouTube频道对应视频: https://youtu.be/Ig3Os7NjN54                                                                    
+- B站频道对应视频: https://www.bilibili.com/video/BV1aD2TBsEkZ/             
+
 
 ## 其他推荐
 
