@@ -36,6 +36,11 @@
 5. 05_【工作流】n8n配置外部事件触发保姆级配置指南：7x24小时无人值守工单AI分诊自动化工作流 Webhook、AI Agent、Send Email、飞书等节点                             
 - 资料在项目内 workflows 文件夹中的 04_*** 文件夹，下载即可                                                                   
 - YouTube频道对应视频: https://youtu.be/Fmu6NarOArM                                                                                         
+- B站频道对应视频: https://www.bilibili.com/video/BV1DHU5B5EMv/
+
+6. 06_【n8n工作流】从文案到成片只需5分钟？AI全自动短视频生产线，解放90%重复劳动｜文案→素材→成片一条龙【附保姆级指南】                                 
+- 资料在项目内 workflows 文件夹中的 05_*** 文件夹，下载即可                                                                   
+- YouTube频道对应视频: https://youtu.be/h6DoC92uyYI                              
 - B站频道对应视频: https://www.bilibili.com/video/BV1DHU5B5EMv/                
 
 
