@@ -6,7 +6,7 @@
 
 ### 个人信息
 
-1. YouTube频道(南哥AGI研习社)：https://www.youtube.com/@南哥AGI研习社                                
+1. YouTube频道(南哥AGI研习社)：https://www.youtube.com/channel/UChKJGiX5ddrIpJG-rBNVZ5g                                            
 2. B站频道(南哥AGI研习社)：https://space.bilibili.com/509246474                      
 3. GitHub地址：https://github.com/NanGePlus                    
 4. Gitee地址：https://gitee.com/NanGePlus                                 
