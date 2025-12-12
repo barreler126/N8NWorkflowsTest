@@ -24,7 +24,7 @@ GitHub(星标 101k):https://github.com/fatedier/frp
 本期视频所使用的服务器配置如下图所示       
 其中，注意需要有公网IP、操作系统选择的是 Ubuntu 22.04 64位 (**后续的操作部分的运行指令均为该系统支持的，其他系统类似**)            
 
-<img src="./02.png" alt="" width="500" />       
+<img src="./01.png" alt="" width="500" />       
 
 购买成功后，可登陆 https://ecs.console.aliyun.com/server/i-uf62pha36lltqxavnku3/detail?regionId=cn-shanghai#/ 到控制台管理实例       
 
