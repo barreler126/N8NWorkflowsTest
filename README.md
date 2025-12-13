@@ -13,19 +13,19 @@
 5. 大模型代理平台: https://nangeai.top/                        
 
 ## 系列视频列表
-1. 01_n8n零基础入门一次搞定：Docker私有化部署平台 +服务零数据丢失安全升级 + 平台语言汉化 + 快速入门三件法宝          
+1.1 01_n8n零基础入门一次搞定：Docker私有化部署平台 +服务零数据丢失安全升级 + 平台语言汉化 + 快速入门三件法宝          
 - 资料在 resource 文件夹中的 01_*** 文件夹，下载即可                   
 - YouTube频道对应视频: https://youtu.be/Ldf15CPDY9Y                                
 - B站频道对应视频: https://www.bilibili.com/video/BV1Aq1NBYELp/
 
 
-  02_n8n V2.x升级实测：一份可复用的‘平滑迁移’检查清单 | 适用于原地升级与全新部署，确保过程平稳               
+1.2 02_n8n V2.x升级实测：一份可复用的‘平滑迁移’检查清单 | 适用于原地升级与全新部署，确保过程平稳               
 - 资料在 resource 文件夹中的 02_*** 文件夹，下载即可                     
 - YouTube频道对应视频: https://youtu.be/fhI6lBoLOBw                                                 
 - B站频道对应视频: https://www.bilibili.com/video/BV1ErmLB4EAW/
 
 
-  03_我切断了向Zapier的“数据进贡” | 本地n8n全球直连方案，打造生产级私人自动化中枢，是数字自治的唯一门票。让本地部署的n8n服务，在外网通过域名安全访问          
+1.3 03_我切断了向Zapier的“数据进贡” | 本地n8n全球直连方案，打造生产级私人自动化中枢，是数字自治的唯一门票。让本地部署的n8n服务，在外网通过域名安全访问          
 - 资料在 resource 文件夹中的 03_*** 文件夹，下载即可                     
 - YouTube频道对应视频: https://youtu.be/F6LcNx7TpYU                                                                   
 - B站频道对应视频: https://www.bilibili.com/video/BV1e5mQBDEbf/          
