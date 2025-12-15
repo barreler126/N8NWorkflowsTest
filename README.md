@@ -55,6 +55,10 @@
 - YouTube频道对应视频: https://youtu.be/h6DoC92uyYI                              
 - B站频道对应视频: https://www.bilibili.com/video/BV1LCSNBAEUs/                               
 
+7. 07_【n8n + AI + X，如何吃掉一切重复工作？我用AI+飞书+n8n，把短视频生产和小红书自动发布变成"按时打卡"？7x24小时AI短视频自动化运营系统      
+- 资料在项目内 workflows 文件夹中的 06_*** 文件夹，下载即可                                                                       
+- YouTube频道对应视频: https://youtu.be/Sj133Lm320E                                             
+- B站频道对应视频: https://www.bilibili.com/video/BV1LCSNBAEUs/     
 
 ## 其他推荐
 
