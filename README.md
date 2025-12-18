@@ -12,7 +12,7 @@
 4. Gitee地址：https://gitee.com/NanGePlus                                 
 5. 大模型代理平台: https://nangeai.top/                        
 
-## 系列视频列表
+## n8n实战工作流     
 1.1 n8n零基础入门一次搞定：Docker私有化部署平台 +服务零数据丢失安全升级 + 平台语言汉化 + 快速入门三件法宝          
 - 资料在 resource 文件夹中的 01_*** 文件夹，下载即可                   
 - YouTube频道对应视频: https://youtu.be/Ldf15CPDY9Y                                
@@ -62,6 +62,12 @@
 详细拆解演示视频:          
 - YouTube频道对应视频: https://youtu.be/9m__FWCkNqw                                                            
 - B站频道对应视频: https://www.bilibili.com/video/BV1dCq4BbECZ/           
+
+## n8n实战经验小Tip    
+1. 【n8n实战经验小Tip】飞书服务使用前配置｜最小配置颗粒度拆解｜开源可抄作业                       
+- 资料在项目内 tips 文件夹中的 01_*** 文件夹，下载即可                                                   
+- YouTube频道对应视频: https://youtu.be/GKFtAamUMyQ                                                 
+- B站频道对应视频:        
 
 ## 其他推荐
 
