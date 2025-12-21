@@ -58,7 +58,7 @@ B站频道对应视频:https://www.bilibili.com/video/BV1Q7qQBpEF8/
 3. 配置节点参数，按照官方文档要求进行参数配置                    
 4. 运行节点     
 
-### 2.4 新增字段 
+### 2.5 新增字段 
 
 参考如下官方说明: https://open.feishu.cn/document/server-docs/docs/bitable-v1/app-table-field/create         
 
@@ -67,7 +67,7 @@ B站频道对应视频:https://www.bilibili.com/video/BV1Q7qQBpEF8/
 3. 配置节点参数，按照官方文档要求进行参数配置                    
 4. 运行节点     
 
-### 2.4 新增记录到表格    
+### 2.6 新增记录到表格    
 
 参考如下官方说明: https://open.feishu.cn/document/server-docs/docs/bitable-v1/app-table-record/create            
 
