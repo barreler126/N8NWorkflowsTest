@@ -11,6 +11,6 @@
 YouTube频道对应视频: https://youtu.be/GKFtAamUMyQ                   
 B站频道对应视频:https://www.bilibili.com/video/BV1Q7qQBpEF8/                            
 
-测试中的文件，请通过如下网盘链接下载:                            
+本期视频演示使用的附件素材，大家可自行在网盘下载:           
 链接：https://pan.quark.cn/s/16eb5bc965e5?pwd=pi3u                           
 提取码：pi3u                   
